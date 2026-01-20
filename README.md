@@ -47,7 +47,7 @@
 ## 🚀 Онлайн демо
 
 🔗 **Перейдите по ссылке:**  
-https://aphezbtw.pythonanywhere.com
+https://ligreen05.pythonanywhere.com
 
 ### Для тестирования используйте:
 
@@ -71,7 +71,7 @@ https://aphezbtw.pythonanywhere.com
 ## 🚀 Быстрый старт (локальный запуск)
 
 
-git clone https://ligreen05.pythonanywhere.com
+git clone https://github.com/ваш-username/game-collection.git
 cd game-collection
 pip install -r requirements.txt
 python app.py
