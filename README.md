@@ -71,7 +71,7 @@ https://aphezbtw.pythonanywhere.com
 ## 🚀 Быстрый старт (локальный запуск)
 
 
-git clone https://github.com/ваш-username/game-collection.git
+git clone https://ligreen05.pythonanywhere.com
 cd game-collection
 pip install -r requirements.txt
 python app.py
