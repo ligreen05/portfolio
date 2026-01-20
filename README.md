@@ -70,14 +70,14 @@ https://aphezbtw.pythonanywhere.com
 
 ## 🚀 Быстрый старт (локальный запуск)
 
-```bash
+
 git clone https://github.com/ваш-username/game-collection.git
 cd game-collection
 pip install -r requirements.txt
 python app.py
 
 
-📁 Структура проекта
+## 📁 Структура проекта
 boardgames/
 │
 ├── app.py                 # основной файл Flask
